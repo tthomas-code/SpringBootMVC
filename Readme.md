@@ -1,4 +1,4 @@
-SpringMVC
+SpringBootMVC
 =========
 An example of a basic Spring MVC application using SpringBoot, embedded servlet engine and Thymeleaf view technology.
 
